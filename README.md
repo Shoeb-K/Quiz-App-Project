@@ -15,7 +15,7 @@ The Quiz App allows users to play a quiz game where individual scores are stored
 
 1. Clone the git repository:
 
-git clone (https://github.com/Shoeb-K/Quiz-App-Project.git)
+```git clone https://github.com/Shoeb-K/Quiz-App-Project.git```
 
 
 2. Open the project folder.
