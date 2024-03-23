@@ -28,9 +28,9 @@ git clone https://github.com/AAdewunmi/Quiz-App-Project.git
 
 ## Demo
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
+![Screenshot 1](https://github.com/Shoeb-K/Quiz-App-Project/blob/main/assets/Screenshot%202024-03-24%20002844.png?raw=true)
+![Screenshot 2](https://github.com/Shoeb-K/Quiz-App-Project/blob/main/assets/Screenshot%202024-03-24%20002855.png?raw=true)
+![Screenshot 3](https://github.com/Shoeb-K/Quiz-App-Project/blob/main/assets/Screenshot%202024-03-24%20002928.png?raw=true)
 
 ## Contributing
 
